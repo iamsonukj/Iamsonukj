@@ -12,7 +12,7 @@ Achievement is the just the beginning of success. "always run consistently & the
 I'm an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
 I am motivated and driven. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I’m not comfortable with settling, and I’m always looking for an opportunity to do better and achieve greatness. I love meeting new people and learning about their lives and their backgrounds. I can almost always find common ground with strangers, and I like making people feel comfortable in my presence.
 
-I Am 2nd Year Student at Chandigarh University Pursuing Bachelors of Engineering With Computer Science.
+I Am 4th Year Student at Chandigarh University Pursuing Bachelors of Engineering With Computer Science.
 
 Inquisitive and dedicated. Strong design and integration abilities, as well as innate problem-solving abilities. Competent with Java. Enthusiastic about starting and implementing new projects. Looking for internships actively to improve my abilities. I'm graduating in July 2025, and I'm interested in full-time or contract full stack developer roles. 
 
